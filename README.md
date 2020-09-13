@@ -4,9 +4,9 @@ Compared among Oversample (random sampling, SMOTE), Undersample (ClusteredCentro
 
 1. Random Sampling method has the best accuracy score at 0.706 (for high risk prediction).
 
-2. SMOTEENN method has the best recall score at 0.71.
+2. Clustered Centroids method has the best recall score at 0.66.
 
-3. Both Random Sampling and SMOTEENN methods have the best geometric mean score at 0.70.
+3. Both Random Sampling methods has the best geometric mean score at 0.70.
 
 ---
 ## Ensemble Learning
